@@ -7,3 +7,12 @@ ul {
 
 body {background-color: #92a8d1 ;
 }
+
+ol {
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+img {
+    box-shadow: 5px 5px 5px;
+}
